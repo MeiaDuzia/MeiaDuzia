@@ -1,6 +1,9 @@
 ### Olá amiguinhos ♑
 
-Meu nome é Maria
+Meu nome é **Maria**  
+
+> asterisco põe em negrito e maior citação
+
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
