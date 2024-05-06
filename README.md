@@ -10,5 +10,5 @@ Meu nome é **Maria**
 
   ### Vem entrar em contato comigo📫
   @7070senaofor70dnv@gmail.com
-  ![](C:\Users\KETLIFABIANYSILVACOS\Downloads)
+  ![C:\Users\KETLIFABIANYSILVACOS\Downloads]()
   
