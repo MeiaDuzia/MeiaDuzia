@@ -1,3 +1,6 @@
+![](https://i.gifer.com/5GNg.gif)
+
+
 ### Olá amiguinhos ♑
 
 Meu nome é **Maria**  
@@ -10,5 +13,5 @@ Meu nome é **Maria**
 
   ### Vem entrar em contato comigo📫
   @7070senaofor70dnv@gmail.com
-  ![C:\Users\KETLIFABIANYSILVACOS\Downloads]()
+  ![]()
   
