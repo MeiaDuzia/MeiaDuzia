@@ -10,5 +10,5 @@ Meu nome é **Maria**
 
   ### Vem entrar em contato comigo📫
   @7070senaofor70dnv@gmail.com
-  ![](https://i.gifer.com/5GNg.gif)
+  ![](C:\Users\KETLIFABIANYSILVACOS\Downloads)
   
